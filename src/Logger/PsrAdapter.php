@@ -8,6 +8,7 @@ use Psr\Log\LogLevel;
 /**
  * Pretty straightforward implementation of PSR-3 logger adapter
  * @package Enl\Swiftmailer\Logger
+ * @author Alex Panshin <deadyaga@gmail.com>
  */
 class PsrAdapter implements \Swift_Plugins_Logger
 {

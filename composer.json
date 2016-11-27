@@ -1,7 +1,7 @@
 {
   "name": "enl/swiftmailer-extras",
   "description": "Extra features for Swiftmailer - PHP mailing library",
-  "keywords": ["swiftmailer", "rabbitmq", "psr"],
+  "keywords": ["swiftmailer", "psr3", "monolog", "runtime spool", "priority"],
   "authors": [{
     "name": "Alex Panshin",
     "email": "deadyaga@gmail.com",
