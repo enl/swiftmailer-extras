@@ -47,6 +47,8 @@ To _immediately_ send exactly one message you should use `immediately` function 
 
 ```php
 $mailer->immediately()->send(new Swift_Message());
+// Next message will be sent to a queue!
+$mailer->send(new Swift_Message());
 ```
 
 
